@@ -5,3 +5,10 @@ h2{
 h3 {
     color: #766b0c;
 }
+h1{
+    color: rgb(32, 32, 69);
+}
+img {
+    width: 100%;
+    height: auto;
+    max-width: 100%;
