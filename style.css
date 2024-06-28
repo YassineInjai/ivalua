@@ -1,5 +1,12 @@
+* {
+    box-sizing: border-box;
+}
 h2{
     color: rgb(110, 81, 20);
+}
+
+.preparation--title {
+    color: #890e6e
 }
 
 h3 {
@@ -12,3 +19,52 @@ img {
     width: 100%;
     height: auto;
     max-width: 100%;
+    border-radius: 15px;
+}
+
+body{ 
+    background-color: rgb(247, 237, 226);
+}
+
+.bold {
+    font-weight: bold;
+}
+
+main{ 
+    max-width: 800px;
+    background-color: white;
+    margin: auto;
+    padding: 30px;
+    border-radius: 20px;
+    
+   } 
+
+table{
+    width: 100%;
+}
+
+caption {
+    text-align: left;
+    display: block;
+    margin-bottom: 2rem;
+}
+
+.preparation {
+    background-color: #f2cbdfde;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+table, th, td {
+    padding: 1rem;
+}
+
+tr {
+    border-bottom: 1px solid #b0adad;
+    border-collapse: collapse;
+    display: block;
+}
+
+
+
+   
